@@ -2,6 +2,8 @@
 
 一个用于自动化批量发布视频到抖音和B站的桌面应用程序。
 
+> **致谢**: 本项目部分功能参考了 [social-auto-upload](https://github.com/dreammis/social-auto-upload) 开源项目，感谢原作者 [dreammis](https://github.com/dreammis) 的贡献。
+
 ![应用界面截图](Screenshot.png)
 
 ## 功能特性
@@ -166,3 +168,20 @@ auto-publish/
 - [ ] 支持视频标签管理
 - [x] 添加发布历史记录
 - [ ] 支持多平台配置管理
+
+## 致谢
+
+本项目部分功能参考和借鉴了以下开源项目：
+
+### [social-auto-upload](https://github.com/dreammis/social-auto-upload)
+
+本项目在开发过程中参考了 [social-auto-upload](https://github.com/dreammis/social-auto-upload) 项目的部分代码和设计思路，特别是：
+
+- **多平台上传架构**: 借鉴了其模块化的上传器设计
+- **Cookie管理机制**: 参考了其用户认证和会话管理方案
+- **视频处理流程**: 学习了其视频文件处理和元数据管理方式
+- **错误处理策略**: 采用了其完善的异常处理和重试机制
+
+感谢 [dreammis](https://github.com/dreammis) 及其团队为开源社区做出的贡献！
+
+> **开源协议**: social-auto-upload 项目采用 MIT License 开源协议，本项目严格遵循相关开源协议要求。

@@ -149,3 +149,16 @@ accounts.ini
 *.flv
 *.wmv
 *.webm
+
+# Image files (if any)
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+*.webp
+
+# Third-party references and attributions
+THIRD_PARTY_LICENSES.txt
+ATTRIBUTION.md
