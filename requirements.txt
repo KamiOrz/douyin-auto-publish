@@ -1,0 +1,6 @@
+tkinter
+sqlite3
+pillow
+requests
+threading
+playwright>=1.54.0
