@@ -149,12 +149,3 @@ accounts.ini
 *.flv
 *.wmv
 *.webm
-
-# Image files (if any)
-*.jpg
-*.jpeg
-*.png
-*.gif
-*.bmp
-*.tiff
-*.webp
